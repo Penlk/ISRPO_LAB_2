@@ -18,4 +18,3 @@ def perimeter(a):
             Возвращаемое значение:
                     perimeter (float): Периметер квадрата со стороной a'''
     return 4 * a
-z``
