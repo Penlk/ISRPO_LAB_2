@@ -178,3 +178,15 @@ perimeter(3.3, 2.0, 12.54) = 3.3 + 2.0 + 12.54 = 17.84
 
 a = 1.1, b = 0.0, c = 123.21
 perimeter(1.1, 0.0, 123.21) = 1.1 + 0.0 + 123.21 = 124.31
+
+# Commits
+- commit 8ba9aeb3cea847b63a91ac378a2a6db758682460 (04.03.21) Message: "Circle and square added"
+- commit d078c8d9ee6155f3cb0e577d28d337b791de28e2 (04.03.21) Message: "Docs added"
+- commit 0e037543632250b6d4f0d5280f045e23171255d3 (22.09.24) Message: "Add new file" *Add rectangle area and perimeter*
+- commit 69ebb978f9dd9ccca95f0ce6267da948751251f3 (22.09.24) Message: "new figure" *Add triangle are and perimeter*
+- commit de44ee7e84e424256773d32ee36c2fd64af283d6 (22.09.24) Message: "Fixed bug" *Fixed bug with calculation rectangle perimeter*
+- commit bc175c69a311e4b1ce6dfdb0026641068bf47fd2 (22.09.24) Message: "Writting documentaition rectangle.py"
+- commit fb9c41366188a9d0c2d0f9069738bddfa2cb011b (22.09.24) Message: "Writting documentaition circle.py"
+- commit 5c655967c7b9aae884119ea1deae33bcc0728a58 (22.09.24) Message: "Writting documentaition triangle.py"
+- commit 0ed7d31c9383c66a96ecd89a78d324900d1e1468 (22.09.24) Message: "Writting documentaition square.py"
+- commit 920ad678b583f212103d4c4f31bc44d5e0cab72b (22.09.24) Message: "Add documentations figures on README.md"
